@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://ik.imagekit.io/yog4lyf/PCOS-&-infertility(Kavita)/thambnail-for-mobile_-JcdohcIR.jpg", PCOS, Infertility, Weightloss (+Postpartum)
+#EXTINF:-1, PCOS, Infertility, Weightloss (+Postpartum)
 https://customer-xo96w41ouki5k06u.cloudflarestream.com/245081cec736acc80f4141c7b4ed62d7/manifest/video.m3u8
 
 #EXTINF:-1, Holistic Health Pranayama
 https://player.vimeo.com/progressive_redirect/playback/784545847/rendition/1080p/file.mp4?loc=external&signature=a853611d3e5145759de5cbe0881774a5c3bfadd9d42cd657d7fca06dc4197540
 
-#EXTINF:-1, pcos_diet_removed_compressed (PDF)
-https://ik.imagekit.io/yog4lyf/pdftesting/pcos_diet_removed_compressed_Xb_sgRnKJ.pdf?updatedAt=1663423947707
